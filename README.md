@@ -17,4 +17,12 @@
   
 <h2 align=left> 🚀 Projetos </h3>
 
+<ul>
+  <li><a href="#projeto-01">Projeto 01 • Page Móveis para você</a></li>
+</ul>
 
+<a href="https://github.com/LauriRodrigues/Page-Moveis-para-voce">
+  <p align="center" id="projeto-01">
+    <img src="./assets/01.png" width="70%" align="left"/>
+  </p>
+</a>
