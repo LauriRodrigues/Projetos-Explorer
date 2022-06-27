@@ -28,3 +28,9 @@
     <img src="./assets/02.png" width="80%" align="left"/>
   </p>
 </a>
+
+<a href="https://github.com/LauriRodrigues/Page-Rocket.sect">
+  <p align="center" id="projeto-03">
+    <img src="./assets/03.png" width="80%" align="left"/>
+  </p>
+</a>
