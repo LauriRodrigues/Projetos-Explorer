@@ -17,20 +17,11 @@
   
 <h2 align=left> 🚀 Projetos </h3>
 
-<a href="https://github.com/LauriRodrigues/Page-Moveis-para-voce">
-  <p align="center" id="projeto-01">
-    <img src="./assets/01.png" width="80%" align="left"/>
-  </p>
-</a>
+<ul>
+  <li><a href="https://github.com/LauriRodrigues/Page-Moveis-para-voce"> Projeto 01 - Página Móveis para você </a></li>
+  <li><a href="https://github.com/LauriRodrigues/Page-Treine-me"> Projeto 02 - Página Treine me </a></li>
+  <li><a href="https://github.com/LauriRodrigues/Page-Rocket.sect"> Projeto 03 - Página Rocket.sect </a></li>
+  <li><a href="https://github.com/LauriRodrigues/Form-Crie-seu-evento"> Projeto 04 - Formulário Crie seu evento </a></li>
+</ul>
 
-<a href="https://github.com/LauriRodrigues/Page-Treine-me">
-  <p align="center" id="projeto-02">
-    <img src="./assets/02.png" width="80%" align="left"/>
-  </p>
-</a>
 
-<a href="https://github.com/LauriRodrigues/Page-Rocket.sect">
-  <p align="center" id="projeto-03">
-    <img src="./assets/03.png" width="80%" align="left"/>
-  </p>
-</a>
