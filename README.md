@@ -23,6 +23,7 @@
   <li><a href="https://github.com/LauriRodrigues/Page-Rocket.sect"> Projeto 03 - Página Rocket.sect </a></li>
   <li><a href="https://github.com/LauriRodrigues/Form-Crie-seu-evento"> Projeto 04 - Formulário Crie seu evento </a></li>
   <li><a href="https://github.com/LauriRodrigues/Form-Mentoria"> Projeto 05 - Formulário Mentoria </a></li>
+  <li><a href="https://github.com/LauriRodrigues/Form-Avalie-sua-mentoria"> Projeto 06 - Formulário Avalie sua Mentoria </a></li>
 </ul>
 
 
