@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Page-Moveis-para-voce?color=%231280BF&style=plastic">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Projetos-Explorer/main?color=1280bf&style=plastic">
  
 </div>
 
