@@ -26,6 +26,7 @@
   <li><a href="https://github.com/LauriRodrigues/Form-Avalie-sua-mentoria"> Projeto 06 - Formulário Avalie sua Mentoria </a></li>
   <li><a href="https://github.com/LauriRodrigues/Page-Exemplo-de-Responsividade"> Projeto 07 - Página Exemplo de Responsividade </a></li>
   <li><a href="https://github.com/LauriRodrigues/Page-Responsiva-Trabalhos"> Projeto 08 - Página Responsiva Trabalhos </a></li>
+  <li><a href="https://github.com/LauriRodrigues/Page-Responsiva-SpaceCream"> Projeto 09 - Página Responsiva SpaceCream </a></li>
 </ul>
 
 
