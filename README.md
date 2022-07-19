@@ -17,10 +17,15 @@
   
 <h2 align=left> 🚀 Projetos </h3>
 
+<h3 align=left> Nível 2
 <ul>
   <li><a href="https://github.com/LauriRodrigues/Page-Moveis-para-voce"> Projeto 01 - Página Móveis para você </a></li>
   <li><a href="https://github.com/LauriRodrigues/Page-Treine-me"> Projeto 02 - Página Treine me </a></li>
   <li><a href="https://github.com/LauriRodrigues/Page-Rocket.sect"> Projeto 03 - Página Rocket.sect </a></li>
+</ul>
+
+<h3 align=left> Nível 3
+<ul>
   <li><a href="https://github.com/LauriRodrigues/Form-Crie-seu-evento"> Projeto 04 - Formulário Crie seu evento </a></li>
   <li><a href="https://github.com/LauriRodrigues/Form-Mentoria"> Projeto 05 - Formulário Mentoria </a></li>
   <li><a href="https://github.com/LauriRodrigues/Form-Avalie-sua-mentoria"> Projeto 06 - Formulário Avalie sua Mentoria </a></li>
@@ -29,4 +34,7 @@
   <li><a href="https://github.com/LauriRodrigues/Page-Responsiva-SpaceCream"> Projeto 09 - Página Responsiva SpaceCream </a></li>
 </ul>
 
-
+<h3 align=left> Nível 4
+<ul>
+  <li><a href="https://github.com/LauriRodrigues/Logica-e-algoritmos-em-JS"> Exercícios - Lógica e Algoritmos em JavaScript </a></li>
+</ul>
