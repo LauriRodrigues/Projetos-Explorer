@@ -44,6 +44,7 @@
   <li><a href="https://github.com/LauriRodrigues/Jogo-da-adivinhacao"> Projeto 10 - Jogo da adivinhação </a></li>
   <li><a href="https://github.com/LauriRodrigues/Calculo-IMC"> Projeto 11 - Cálculo de IMC </a></li>
   <li><a href="https://github.com/LauriRodrigues/FocusTimer"> Projeto 12 - FocusTimer </a></li>
+  <li><a href="https://github.com/LauriRodrigues/FocusTimer-2.0"> Projeto 13 - FocusTimer 2.0</a></li>
 </ul>
 
 
