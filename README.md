@@ -17,14 +17,14 @@
   
 <h2 align=left> 🚀 Projetos </h3>
 
-<h3 align=left> Nível 2
+<h3 align=left> Nível 2 - Introdução ao HTML e CSS
 <ul>
   <li><a href="https://github.com/LauriRodrigues/Page-Moveis-para-voce"> Projeto 01 - Página Móveis para você </a></li>
   <li><a href="https://github.com/LauriRodrigues/Page-Treine-me"> Projeto 02 - Página Treine me </a></li>
   <li><a href="https://github.com/LauriRodrigues/Page-Rocket.sect"> Projeto 03 - Página Rocket.sect </a></li>
 </ul>
 
-<h3 align=left> Nível 3
+<h3 align=left> Nível 3 - Avançando no HTML e CSS
 <ul>
   <li><a href="https://github.com/LauriRodrigues/Form-Crie-seu-evento"> Projeto 04 - Formulário Crie seu evento </a></li>
   <li><a href="https://github.com/LauriRodrigues/Form-Mentoria"> Projeto 05 - Formulário Mentoria </a></li>
@@ -34,12 +34,12 @@
   <li><a href="https://github.com/LauriRodrigues/Page-Responsiva-SpaceCream"> Projeto 09 - Página Responsiva SpaceCream </a></li>
 </ul>
 
-<h3 align=left> Nível 4
+<h3 align=left> Nível 4 - Introdução aos conceitos de JavaScript
 <ul>
   <li><a href="https://github.com/LauriRodrigues/Logica-e-algoritmos-em-JS"> Exercícios - Lógica e Algoritmos em JavaScript </a></li>
 </ul>
 
-<h3 align=left> Nível 5
+<h3 align=left> Nível 5 - Avançando no JavaScript
 <ul>
   <li><a href="https://github.com/LauriRodrigues/Jogo-da-adivinhacao"> Projeto 10 - Jogo da adivinhação </a></li>
   <li><a href="https://github.com/LauriRodrigues/Calculo-IMC"> Projeto 11 - Cálculo de IMC </a></li>
@@ -47,9 +47,15 @@
   <li><a href="https://github.com/LauriRodrigues/FocusTimer-2.0"> Projeto 13 - FocusTimer 2.0</a></li>
 </ul>
 
-<h3 align=left> Nível 6
+<h3 align=left> Nível 6 - JavaScript antes do framework
 <ul>
   <li><a href="https://github.com/LauriRodrigues/SPAUniverse"> Projeto 14 - SPA Universe </a></li>
   <li><a href="https://github.com/LauriRodrigues/GitFav"> Projeto 15 - GitFav </a></li>
 </ul>
+
+<h3 align=left> Nível 8 - Backend
+<ul>
+  <li><a href="https://github.com/LauriRodrigues/RocketNotes-api"> Projeto 16 - RocketNotes - API </a></li>
+</ul>
+
 
