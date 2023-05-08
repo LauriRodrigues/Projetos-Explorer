@@ -68,3 +68,8 @@
 <ul>
   <li> Nesse nível foi feita a integração entre o back-end <a href="https://github.com/LauriRodrigues/RocketNotes-api"> Projeto 16</a> e o front-end <a href="https://github.com/LauriRodrigues/RocketNotes-front"> Projeto 18</a></li>
 </ul>
+
+<h3 align=left> Nível 11 - Deploy e Testes automatizados
+<ul>
+  <li> Nesse nível foi feito o deploy e a criação de testes no RocketNotes -> <a href="https://github.com/LauriRodrigues/RocketNotes-api"> Projeto 16</a> e <a href="https://github.com/LauriRodrigues/RocketNotes-front"> Projeto 18</a></li>
+</ul>
