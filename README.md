@@ -73,3 +73,9 @@
 <ul>
   <li> Nesse nível foi feito o deploy e a criação de testes no RocketNotes -> <a href="https://github.com/LauriRodrigues/RocketNotes-api"> Projeto 16</a> e <a href="https://github.com/LauriRodrigues/RocketNotes-front"> Projeto 18</a></li>
 </ul>
+
+<h3 align=left> Projeto final - FoodExplorer
+<ul>
+  <li> <a href="https://github.com/LauriRodrigues/FoodExplorer-api"> Back-end</a></li>
+  <li> <a href="https://github.com/LauriRodrigues/FoodExplorer-front"> Front-end</a></li>
+</ul>
